@@ -1,0 +1,15 @@
+{
+  "name": "teste_opentok1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "eu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "opentok": "^2.10.0"
+  }
+}
